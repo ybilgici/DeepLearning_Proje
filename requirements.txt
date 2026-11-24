@@ -1,0 +1,7 @@
+# Kaggle'da hepsi hazır kurulu gelir; lokal çalıştırma için:
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+matplotlib
+pytest>=8,<9
